@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <p>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WaltCuller"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&layout=compact&langs_count=5&hide=javascript,html,css"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&layout=compact&langs_count=5&hide=javascript,html,css,scss"/>
 </p>
 
