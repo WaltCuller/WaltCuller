@@ -13,11 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![WaltCuller's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WaltCuller)](https://github.com/WaltCuller)
 
+-->
 
+
+
+<p>
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WaltCuller"/>
+</p>
 
 <p>
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&layout=compact&langs_count=4&hide=javascript,html,css"/>
