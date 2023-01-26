@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-[About me](https://waltculler.github.io)
+[About Me](https://waltculler.github.io)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&langs_count=5&hide=html,css,scss)
