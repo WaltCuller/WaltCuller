@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&layout=compact&langs_count=6&hide=html,javascript,css,scss)
+![WaltCuller's github stats](https://github-readme-stats.vercel.app/api?username=WaltCuller&show_icons=true&count_private=true&line_height=40)
 
-
-<p>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WaltCuller"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&layout=compact&langs_count=5&hide=javascript,html,css,scss"/>
-</p>
 
