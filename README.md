@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ![](https://i.v2ex.co/c8pbN7nW.jpeg)
 
-[About Me](https://waltculler.github.io)
+[About Me](https://the.top/whatc)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&langs_count=5&hide=html,css,scss)
 ![WaltCuller's github stats](https://github-readme-stats.vercel.app/api?username=WaltCuller&show_icons=true&count_private=true&line_height=40)
