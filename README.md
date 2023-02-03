@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 -------
 
-[[🤔 About Me]](https://the.top/whatc)
+- 🐣 Still finding myself.
+- 🤔 [About Me](https://the.top/whatc)
 
 -------
 
