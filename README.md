@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 -------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&langs_count=5&hide=html,css,scss)
-![WaltCuller's github stats](https://github-readme-stats.vercel.app/api?username=WaltCuller&show_icons=true&count_private=true&line_height=40)
+![WaltCuller's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&langs_count=5&hide=html,css,scss)
+![WaltCuller's Github Stats](https://github-readme-stats.vercel.app/api?username=WaltCuller&show_icons=true&count_private=true&line_height=40)
 
 
