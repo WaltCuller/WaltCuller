@@ -1,3 +1,4 @@
+------
 ### Hi there 👋
 
 <!--
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 
 -------
 
-- 🐣 Still finding myself.
+- 🐣 Still finding myself.   
 - 🤔 [About Me](https://the.top/whatc)
 
 -------
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
 ![WaltCuller's Github Stats](https://github-readme-stats.vercel.app/api?username=WaltCuller&show_icons=true&count_private=true&line_height=40)
 
 
+-------
