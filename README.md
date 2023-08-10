@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 -------
 
-![WaltCuller's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&langs_count=5&hide=html,css,scss,javascript)
-![WaltCuller's Github Stats](https://github-readme-stats.vercel.app/api?username=WaltCuller&show_icons=true&count_private=true&line_height=40)
-
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WaltCuller&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltCuller&layout=compact&langs_count=4&hide=javascript,html,css"/>
+</p>
